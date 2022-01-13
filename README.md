@@ -27,3 +27,7 @@ and the store inventory will decrease upon refreshing the inventory web app at h
 Checking out will close the program automatically.
 
 The code is heavily commented to assist with understanding key components and lines.
+![image](https://user-images.githubusercontent.com/71133703/149253463-d94fd405-9bab-46bb-963d-0c006799d736.png)
+![image](https://user-images.githubusercontent.com/71133703/149253522-8483f87b-0a39-4669-9463-ad97e4aaf29a.png)
+![image](https://user-images.githubusercontent.com/71133703/149253536-acb21e9a-9103-4317-a2a8-218b712d6167.png)
+![image](https://user-images.githubusercontent.com/71133703/149253602-1bf1e30e-cf1f-4f1e-b98b-e4aa7b2f497d.png)
