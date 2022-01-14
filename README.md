@@ -19,3 +19,9 @@ DESCRIPTION:
 _______________________________________
 Inventory tracking web app with CRUD functionality built with javascript (Express, NodeJS).
 Export to csv functionality
+
+![image](https://user-images.githubusercontent.com/71133703/149433928-12f02fb3-b144-484c-a110-98a3b3320057.png)
+![image](https://user-images.githubusercontent.com/71133703/149433802-3b7d83d1-27c1-4d38-914c-e44fa174206a.png)
+
+
+
