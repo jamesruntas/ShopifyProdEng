@@ -9,8 +9,7 @@ Ensure dependencies are installed: NodeJS, Express, npm
 in this webpage to download all required libraries: 
 https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-beginners-tutorial)
 
-Navigate to the directory of this reposistory in the command line and start npm functionality by typing 'npm start'.
-Next, run the main program using NodeJS by typing 'node app.js'
+Run the main program using NodeJS by typing 'node app.js'
 
 Next, open up a web browser such as Chrome or Firefox and go to the local server web app at:
 http://localhost:8080
